@@ -1,0 +1,26 @@
+.body-left{
+    .card{
+        .card-top{
+            .card-img-top{
+                width: 324.8px;
+                height: 300px;
+                position: relative;
+            }
+            .glass-img{
+                width: 170px;
+                position: absolute;
+                left: 24%;
+                top: 17%;
+            }
+        }
+        .card-body{
+            .card-title{
+
+            }
+            .card-text{
+                width: 250px;
+                word-wrap: break-word;
+            }
+        }
+    }
+}
